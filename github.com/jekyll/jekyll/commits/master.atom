@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/jekyll/jekyll/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/jekyll/jekyll/commits/master.atom"/>
+  <title>Recent Commits to jekyll:master</title>
+  <updated>2024-10-20T15:42:00Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e378c0615ce8e84948e0b8c51814fe0ba37fc24</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/8e378c0615ce8e84948e0b8c51814fe0ba37fc24"/>
+    <title>
+        Update history to reflect merge of #9699 [ci skip]
+    </title>
+    <updated>2024-10-20T15:42:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9699 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6b0af7144d8a24fca647e385ad59ebbdd16c2954</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/6b0af7144d8a24fca647e385ad59ebbdd16c2954"/>
+    <title>
+        Fix missing `url` configuration option documentation (#9699)
+    </title>
+    <updated>2024-10-20T15:41:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13408130?s=30&amp;v=4"/>
+    <author>
+      <name>brlin-tw</name>
+      <uri>https://github.com/brlin-tw</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix missing `url` configuration option documentation (#9699)
+
+Merge pull request 9699&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f93928ab2cbb8b56efa8be35417194b0b42a9d3c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/f93928ab2cbb8b56efa8be35417194b0b42a9d3c"/>
+    <title>
+        Update history to reflect merge of #9697 [ci skip]
+    </title>
+    <updated>2024-10-20T14:22:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9697 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c4a453e2c8e825f208e7da90d1f840b2b4d97c3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/0c4a453e2c8e825f208e7da90d1f840b2b4d97c3"/>
+    <title>
+        Fix missing glob matching pattern support description in the document…
+    </title>
+    <updated>2024-10-20T14:22:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13408130?s=30&amp;v=4"/>
+    <author>
+      <name>brlin-tw</name>
+      <uri>https://github.com/brlin-tw</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix missing glob matching pattern support description in the documentation of the `include` and `exclude` configuration options (#9697)
+
+Merge pull request 9697&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/44fc6803d2c96432da72279a53ee2f5f2e20cd5e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/44fc6803d2c96432da72279a53ee2f5f2e20cd5e"/>
+    <title>
+        Update history to reflect merge of #9688 [ci skip]
+    </title>
+    <updated>2024-10-17T13:10:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9688 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5e1b6d3fae2b797747f4bbf131c45001b4d24c14</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/5e1b6d3fae2b797747f4bbf131c45001b4d24c14"/>
+    <title>
+        Configure some new cops (#9688)
+    </title>
+    <updated>2024-10-17T13:10:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12479464?s=30&amp;v=4"/>
+    <author>
+      <name>ashmaroli</name>
+      <uri>https://github.com/ashmaroli</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Configure some new cops (#9688)
+
+Merge pull request 9688&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fce1966b3ad8ddd0a03381a960a59cb5b4b9e3ee</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/fce1966b3ad8ddd0a03381a960a59cb5b4b9e3ee"/>
+    <title>
+        Update history to reflect merge of #9695 [ci skip]
+    </title>
+    <updated>2024-10-10T15:09:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9695 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8ba078f95d7aadc00ac19f344b2f9b08c7d46809</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/8ba078f95d7aadc00ac19f344b2f9b08c7d46809"/>
+    <title>
+        Fix HTML attribute separation whitespace placement in the Navigation …
+    </title>
+    <updated>2024-10-10T15:09:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13408130?s=30&amp;v=4"/>
+    <author>
+      <name>brlin-tw</name>
+      <uri>https://github.com/brlin-tw</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix HTML attribute separation whitespace placement in the Navigation include code of Assets step of the Step by Step Tutorial (#9695)
+
+Merge pull request 9695&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/94192a3ab49a70ca740cb1fd6d57ebf2f65d6444</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/94192a3ab49a70ca740cb1fd6d57ebf2f65d6444"/>
+    <title>
+        Update history to reflect merge of #9666 [ci skip]
+    </title>
+    <updated>2024-09-22T18:22:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9666 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f8a456d16e33f9fd69fe0d44d33a174dc35efd22</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/f8a456d16e33f9fd69fe0d44d33a174dc35efd22"/>
+    <title>
+        Render HTML tables at `/docs/permalinks/` using a data file (#9666)
+    </title>
+    <updated>2024-09-22T18:21:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12479464?s=30&amp;v=4"/>
+    <author>
+      <name>ashmaroli</name>
+      <uri>https://github.com/ashmaroli</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Render HTML tables at `/docs/permalinks/` using a data file (#9666)
+
+Merge pull request 9666&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0f03b31b8582c67c87ae9b0efb7e75cd44b550f4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/0f03b31b8582c67c87ae9b0efb7e75cd44b550f4"/>
+    <title>
+        Update history to reflect merge of #9689 [ci skip]
+    </title>
+    <updated>2024-09-22T18:01:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9689 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/27805c97ec3772f6c5517ae8fc679c7906986993</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/27805c97ec3772f6c5517ae8fc679c7906986993"/>
+    <title>
+        Fix grammar in the description of `page.excerpt` variable (#9689)
+    </title>
+    <updated>2024-09-22T18:01:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/116498290?s=30&amp;v=4"/>
+    <author>
+      <name>bonsaipropaganda</name>
+      <uri>https://github.com/bonsaipropaganda</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix grammar in the description of `page.excerpt` variable (#9689)
+
+Merge pull request 9689&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e223b9e1e376ff5fe82855cbff0520112ba13021</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/e223b9e1e376ff5fe82855cbff0520112ba13021"/>
+    <title>
+        Update history to reflect merge of #9682 [ci skip]
+    </title>
+    <updated>2024-09-22T12:25:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9682 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/860c5d63946c52100379c7f81739a33b5b2323fd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/860c5d63946c52100379c7f81739a33b5b2323fd"/>
+    <title>
+        Improve docs around using GitHub Actions to build and deploy Jekyll s…
+    </title>
+    <updated>2024-09-22T12:25:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87453615?s=30&amp;v=4"/>
+    <author>
+      <name>nisbet-hubbard</name>
+      <uri>https://github.com/nisbet-hubbard</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improve docs around using GitHub Actions to build and deploy Jekyll sites (#9682)
+
+Merge pull request 9682&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ca57a45b17dc7bacd0e56c31bd35a09da9c52f2f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/ca57a45b17dc7bacd0e56c31bd35a09da9c52f2f"/>
+    <title>
+        Update history to reflect merge of #9687 [ci skip]
+    </title>
+    <updated>2024-09-20T11:25:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9687 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/94831d572d447e948b78026203185802f9603a2b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/94831d572d447e948b78026203185802f9603a2b"/>
+    <title>
+        Format `.rubocop.yml` via a rake task (#9687)
+    </title>
+    <updated>2024-09-20T11:25:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12479464?s=30&amp;v=4"/>
+    <author>
+      <name>ashmaroli</name>
+      <uri>https://github.com/ashmaroli</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Format `.rubocop.yml` via a rake task (#9687)
+
+Merge pull request 9687&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ef6ae0305e6bac110456c2ff4561d9ff575f92f7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/ef6ae0305e6bac110456c2ff4561d9ff575f92f7"/>
+    <title>
+        Publish Release Post for v4.3.4
+    </title>
+    <updated>2024-09-16T16:20:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12479464?s=30&amp;v=4"/>
+    <author>
+      <name>ashmaroli</name>
+      <uri>https://github.com/ashmaroli</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Publish Release Post for v4.3.4&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4ad5419d558acc021071eebf048bde139919c8c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/4ad5419d558acc021071eebf048bde139919c8c7"/>
+    <title>
+        Update history to reflect merge of #9680 [ci skip]
+    </title>
+    <updated>2024-09-16T15:40:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6166343?s=30&amp;v=4"/>
+    <author>
+      <name>jekyllbot</name>
+      <uri>https://github.com/jekyllbot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9680 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/32074ef9442966bb39081cc6862256a9a0e4604b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/32074ef9442966bb39081cc6862256a9a0e4604b"/>
+    <title>
+        Render theme-gem root only in development (#9680)
+    </title>
+    <updated>2024-09-16T15:40:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12479464?s=30&amp;v=4"/>
+    <author>
+      <name>ashmaroli</name>
+      <uri>https://github.com/ashmaroli</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Render theme-gem root only in development (#9680)
+
+Merge pull request 9680&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eba4dbcc7211e55172f76d996183bddb82e991e6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/jekyll/jekyll/commit/eba4dbcc7211e55172f76d996183bddb82e991e6"/>
+    <title>
+        Update history to reflect merge of #9614 [ci skip]
+    </title>
+    <updated>2024-09-16T14:54:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12479464?s=30&amp;v=4"/>
+    <author>
+      <name>ashmaroli</name>
+      <uri>https://github.com/ashmaroli</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update history to reflect merge of #9614 [ci skip]&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

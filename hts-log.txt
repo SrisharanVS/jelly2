@@ -1,0 +1,14 @@
+HTTrack3.49-5 launched on Sun, 03 Nov 2024 01:12:57 at http://https://jekyllrb.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://jekyllrb.com/ -O "/home/madmaestro/websites/jelly" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:15:33	Error: 	"Not Found" (404) at link https://jekyllrb.com/docs/security/docs/pages/team.md (from https://jekyllrb.com/docs/security/)
+01:17:10	Warning: 	HTML file (15229 bytes) retransferred due to lack of cache: https://jekyllrb.com/docs/installation/
+01:17:11	Warning: 	HTML file (23675 bytes) retransferred due to lack of cache: https://jekyllrb.com/news/2024/06/23/jekyll-3-10-0-released/
+
+HTTrack Website Copier/3.49-5 mirror complete in 4 minutes 15 seconds : 333 links scanned, 347 files written (7645522 bytes overall) [3333116 bytes received at 13071 bytes/sec], 5570974 bytes transferred using HTTP compression in 220 files, ratio 24%, 4.8 requests per connection
+(1 errors, 2 warnings, 0 messages)
